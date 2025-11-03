@@ -48,7 +48,7 @@ npm run "Opret Database"
 
 ### 4. Tjek at databasen er oprettet.
 
-Åbn Mongo Compass og se din nye database "mcv-glamping".
+Åbn Mongo Compass og se din nye database "mcd-glamping".
 
 ### 5. Start serveren.
 
